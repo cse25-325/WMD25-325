@@ -107,7 +107,7 @@ a {
 
 color: #4CAF50;
 
-text-decoration: none;
+text-decoration: sans serif;
 
 }
 
@@ -121,7 +121,7 @@ text-decoration: underline;
 
 img {
 
-border: 30px dotted #4CAF50;
+border: 30px solid #594caf;
 
 border-radius: 20px;
 
