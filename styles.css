@@ -17,9 +17,9 @@ line-height: 1.1;
 
 header {
 
-background-color: #4CAF50;
+background-color: #4caf89;
 
-color: Lime;
+color: rgb(0, 255, 247);
 
 padding: 10px;
 
@@ -79,9 +79,9 @@ margin: 20px 0;
 
 footer {
 
-background-color: #555;
+background-color: #5555cd;
 
-color: white;
+color: rgba(255, 255, 255, 0.281);
 
 text-align: center;
 
@@ -105,7 +105,7 @@ font-size: 1.1em;
 
 a {
 
-color: #4CAF50;
+color: #af6a4c;
 
 text-decoration: sans serif;
 
